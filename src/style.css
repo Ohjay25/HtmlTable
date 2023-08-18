@@ -1,0 +1,29 @@
+body{
+    font-size: 1.2rem;
+    line-height: 1.5;
+    background-color: lightgray;
+}
+
+table,
+caption{
+    background-color: silver;
+}
+
+table{
+    width: 50%;
+    border: 2px solid #000;
+    padding: 10px;
+    border-collapse: collapse;
+    margin-top: 50px;
+}
+
+caption{
+    font-style: italic;
+}
+
+.align{
+    text-align: center;
+    font-weight: bold;
+}
+
+
